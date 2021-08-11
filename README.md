@@ -1,3 +1,3 @@
 # Binary Image Classifier
 
-### api link 
+### api link : https://binaryclassifier.herokuapp.com/
